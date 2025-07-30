@@ -24,10 +24,10 @@ export function Testimonials() {
       companyLogo: "/placeholder.svg?height=40&width=120&text=Sharma+Medical",
     },
     {
-      name: "Sarah Johnson",
+      name: "Swati Mathur",
       position: "Principal",
       company: "Cambridge Court High School",
-      image: "/placeholder.svg?height=80&width=80&text=SJ",
+      image: "/placeholder.svg?height=80&width=80&text=SM",
       rating: 5,
       text: "Managing faculty meetings, parent-teacher conferences, and student appointments was chaotic before AppointEase. Now everything runs smoothly with automated scheduling and notifications. It's been a game-changer for our administrative efficiency.",
       industry: "Education",
